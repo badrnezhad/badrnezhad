@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<img src="banner-github.png"  align="center" />
+
+
+### This is Hossein Badrnezhad
+💻 currently working on [Holosen](https://holosen.net)
+🚀 follow me on [Instagram](https://www.instagram.com/nulldevelopr/)
 
 <!--
 **badrnezhad/badrnezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
