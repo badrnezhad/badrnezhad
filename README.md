@@ -1,7 +1,7 @@
 My name is Hossein Badrnezhad
 ===============================
 
-Developer & Teacher
+Developer & Lecturer
 -----------------------------
 
 *   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
